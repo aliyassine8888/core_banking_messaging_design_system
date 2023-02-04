@@ -1,1 +1,4 @@
-# core_banking_messaging_design_system
+# Core Banking Messaging Design System
+
+
+<img src="./design/messaging_system.drawio.svg">
