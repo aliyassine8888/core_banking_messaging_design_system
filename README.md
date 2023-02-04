@@ -13,4 +13,4 @@
 * Record of Messages sent is required
 
 <br><br>
-<img src="./design/messaging_system.drawio.svg">
+<img src="./design/messaging_system_final.drawio.svg">
